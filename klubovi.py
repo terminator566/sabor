@@ -1,1 +1,1 @@
-print('hdz,sdp,most')
+print('hdz,sdp')
